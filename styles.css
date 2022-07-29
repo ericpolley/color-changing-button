@@ -1,0 +1,27 @@
+body {
+    background-color: chocolate;
+}
+.boxSection1 {
+    display: flex;
+    width: fit-content;
+    height: 100%;
+    flex-wrap: wrap;
+    background-color: black;
+    padding: 15px;
+
+
+}
+.boxButton1 {
+    margin: 10px;
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    border: 2px solid white;
+}
+.boxAction1 {
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: darkturquoise;
+    border: 2px solid white;
+}
