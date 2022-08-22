@@ -6,3 +6,7 @@ click and change the color of text
 
 A simple test, click on the left text, the right text eill change color.
 Practice for Javascript.
+
+
+How to use: Download full zip folder. Extract. Open the folder in VS Code. Open the index.html and right click on the page, Open Live Server
+(You will require the Live Server Extention to utilize)
